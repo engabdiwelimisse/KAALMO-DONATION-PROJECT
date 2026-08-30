@@ -128,3 +128,4 @@ export default function MyTickets() {
     </PageLayout>
   );
 }
+// Displays the user's support tickets and allows replies to active tickets.
